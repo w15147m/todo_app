@@ -147,7 +147,7 @@ class _MyHomePageState extends State<MyHomePage> {
           dataRowMaxHeight: 40,
           columns: const <DataColumn>[
             DataColumn(
-              label: Text('Student Name'),
+              label: Text('Students Name'),
             ),
             DataColumn(
               label: Text('Class'),
